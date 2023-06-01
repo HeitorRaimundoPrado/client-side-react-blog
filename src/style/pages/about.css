@@ -1,0 +1,16 @@
+.about__container {
+  padding: 2rem;
+}
+
+.p__about {
+  text-align: justify;
+  font-size: 1.2rem;
+  tab-size: 8;
+  -moz-tab-size: 8;
+}
+
+.h2__about {
+  margin-left: 3rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}

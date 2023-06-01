@@ -1,1 +1,21 @@
+.p__home {
+  margin: 2rem;
+  padding: 10px;
+  color: #000;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
 
+.h1__home {
+  margin-top: 1.5rem;
+}
+
+.h1__home--centralized {
+  margin-inline: auto;
+}
+
+.p__home {
+  text-align: justify;
+  tab-size: 2;
+}
