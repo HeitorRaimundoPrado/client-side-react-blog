@@ -1,10 +1,13 @@
 .p__home {
   margin: 2rem;
-  padding: 10px;
+  margin-bottom: 0;
+  /* padding: 10px; */
   color: #000;
-  font-family: Arial, sans-serif;
-  font-size: 16px;
+  /* font-family: Arial, sans-serif; */
+  font-size: 1.2rem;
   line-height: 1.5;
+  text-align: justify;
+  tab-size: 8;
 }
 
 .h1__home {
@@ -15,7 +18,22 @@
   margin-inline: auto;
 }
 
-.p__home {
-  text-align: justify;
-  tab-size: 2;
+.p__home--margin-right {
+  margin-right: 22rem;
 }
+
+.p__home--no-margin {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.img__typing {
+  right: 0;
+  margin-top: 1.3rem;
+  margin-right: 1.3rem;
+}
+
+.container__title {
+  width: 100vw;
+}
+
