@@ -1,7 +1,6 @@
 import '../style/pages/home.css'
 
 import personTyping from '../assets/typing.jpg'
-import avenueImage from '../assets/avenue.jpg'
 
 const Home = () => {
   return (

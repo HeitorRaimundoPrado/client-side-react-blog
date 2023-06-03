@@ -4,9 +4,6 @@
   margin: 0;
   font-family: 'Aoboshi One', serif;
 }
-body {
-  background-color: #D5D0CD;
-}
 
 #page {
   display: flex;
