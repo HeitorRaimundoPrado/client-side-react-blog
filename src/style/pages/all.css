@@ -5,6 +5,10 @@
   font-family: 'Aoboshi One', serif;
 }
 
+body {
+  background-color: #d4d4d4;
+}
+
 #page {
   display: flex;
   flex-direction: column;

@@ -1,0 +1,45 @@
+.blog-page form {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  justify-content: center;
+  margin: auto;
+}
+
+.blog-page form .child {
+  margin-bottom: 3px;
+}
+
+.blog-page .title-input {
+  width: 100%;
+  display: flex;
+}
+
+.blog-page .title-input input {
+  font-family: Arial;
+  flex: 1;
+  width: calc(100% - 3px);
+  border-radius: 3px;
+  box-shadow: none;
+  border: 1px solid #000000;
+  margin-left: 3px;
+  background-color: #f0f0f0;
+}
+
+.blog-page textarea {
+  font-family: Arial;
+  border-radius: 3px;
+  box-shadow: none;
+  border: 1px solid #000000;
+  background-color: #f0f0f0;
+}
+
+.submit-button {
+  box-shadow: none;
+  border: 1px solid #000;
+  width: 50%;
+  margin: auto;
+  border-radius: 15px;
+  background-color: #575757;
+  color: #fff;
+}
