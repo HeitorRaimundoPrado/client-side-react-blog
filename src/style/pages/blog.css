@@ -1,9 +1,27 @@
+.blog-page h1 {
+  margin: 2rem 0;
+  justify-content: center;
+  display: flex;
+}
+
 .blog-page form {
   display: flex;
   flex-direction: column;
   width: 50vw;
   justify-content: center;
   margin: auto;
+}
+
+.blog-page .posts {
+  margin-left: 2rem;
+}
+
+.blog-page .posts h2 {
+  margin-left: 1.5rem;
+}
+
+.blog-page .posts .post {
+  margin-bottom: 1.5rem;
 }
 
 .blog-page form .child {
